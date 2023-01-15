@@ -80,4 +80,6 @@
             android:value="@string/navigationAPI" />
     </application>
 
+    <uses-permission android:name="android.permission.CAMERA"/>
+
 </manifest>
